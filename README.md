@@ -52,15 +52,11 @@ cd next-js-tailwind-kpi-library
 2. Install dependencies:
 ```bash
 npm install
-# or
-yarn install
 ```
 
 3. Run the development server:
 ```bash
 npm run dev
-# or
-yarn dev
 ```
 
 4. Open [http://localhost:3000](http://localhost:3000) in your browser to see the application.
@@ -90,15 +86,6 @@ npm run test:watch
 
 # Run tests with coverage
 npm run test:coverage
-```
-
-### Environment Variables
-
-Create a `.env.local` file in the root directory:
-
-```env
-# Add any environment variables here
-NEXT_PUBLIC_API_URL=your_api_url
 ```
 
 ## 📁 Project Structure
@@ -239,15 +226,10 @@ We welcome contributions! Please follow these steps:
 - Write meaningful commit messages
 - Add appropriate comments for complex logic
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - Design inspiration from modern dashboard interfaces
 - Icons from [Heroicons](https://heroicons.com/)
-- Built with love by the development team
 
 ---
 
